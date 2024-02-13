@@ -36,11 +36,11 @@ The project provides a structured analysis of potential apartment locations, con
 ## Data Source References
 
 **US Zip Code Data:**
-   - Source: [SimpleMaps]
-   - Dataset: [uszips.csv]
-   - URL: [https://simplemaps.com/data/us-zips]
+   - Source: SimpleMaps
+   - Dataset: uszips.csv
+   - URL: https://simplemaps.com/data/us-zips
 
 **Fair Market Rent Data (FY24):**
-   - Source: [HUD User]
-   - Dataset: [FY24_FMRs]
-   - URL: [https://www.huduser.gov/portal/datasets/fmr.html#documents_2024]
+   - Source: HUD User
+   - Dataset: FY24_FMRs
+   - URL: https://www.huduser.gov/portal/datasets/fmr.html#documents_2024
